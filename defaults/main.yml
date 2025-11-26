@@ -1,22 +1,18 @@
 ---
 # defaults file for kryptos
 brew_packages:
-  - brave-browser
   - visual-studio-code
-  - iterm2 
+  - iterm2
   - git
   - tmux
   - htop
   - tree
   - fzf
   - coreutils
-  - discord
-  - spotify
   - vlc
   - wget
   - btop
   - p7zip
   - unzip
   - sublime-text
-  - syncthing
   - keka
